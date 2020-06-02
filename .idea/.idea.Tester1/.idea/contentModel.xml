@@ -15,6 +15,7 @@
         <e p="App.config" t="Include" />
         <e p="BoolCalcTest1.feature" t="Include" />
         <e p="CalcTest.cs" t="Include" />
+        <e p="PageObjectUsage.cs" t="Include" />
         <e p="Tester1.csproj" t="IncludeRecursive" />
         <e p="UnitTest1.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />

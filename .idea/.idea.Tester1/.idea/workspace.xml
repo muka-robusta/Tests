@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbb96535-aa67-47f0-892c-e28749b27e23" name="Default Changelist" comment="" />
+    <list default="true" id="bbb96535-aa67-47f0-892c-e28749b27e23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tester1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tester1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tester1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tester1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Tester1/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tester1/CalcTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tester1/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tester1/PageObjectUsage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -24,6 +28,7 @@
         <option value="$PROJECT_DIR$/Tester1/BoolCalcTest1.feature" />
         <option value="$PROJECT_DIR$/Tester1/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/Tester1/CalcTest.cs" />
+        <option value="$PROJECT_DIR$/Tester1/PageObjectUsage.cs" />
       </list>
     </option>
   </component>
@@ -58,7 +63,8 @@
       <workItem from="1591100095154" duration="593000" />
       <workItem from="1591108333574" duration="4774000" />
       <workItem from="1591113719844" duration="11064000" />
-      <workItem from="1591127590213" duration="1293000" />
+      <workItem from="1591127590213" duration="3080000" />
+      <workItem from="1591134155822" duration="902000" />
     </task>
     <servers />
   </component>
